@@ -13,8 +13,8 @@ The collection of photos has large size so take it from Google Drive - https://d
 1. Copy photos from given Google Drive link: take all photos from folder "pornhub_800best", unzip photos in archive "ps_photos.zip" from folder "pornhub_all_init" and take all of them in folder "ps_photos". Copy to repo database with face vectors - *photos_db.csv*
 2. Just run the script "main_run.py":
 ```
->> pip install -r requirements.txt
 >> cd PornStarSimilarity
+>> pip install -r requirements.txt
 >> python3 main_run.py YOUR_PHOTO.jpg
 
 ```
